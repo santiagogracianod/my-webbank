@@ -1,9 +1,4 @@
-import Button from '@/components/atoms/Button';
-import NavTitle from '@/components/atoms/NavTitle';
-import Nav from '@/components/organisms/Nav';
-import NavMobile from '@/components/molecules/Navmobile';
 import Hero from '@/components/organisms/Hero';
-import Card from '@/components/molecules/Card';
 import Features from '@/components/organisms/Features';
 import BlogCard from '@/components/molecules/BlogCard';
 

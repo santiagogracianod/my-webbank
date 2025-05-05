@@ -1,6 +1,6 @@
 import React from 'react';
 import Image from '@/components/atoms/Image';
-import { SubText, TextTitle } from '@/components/atoms/Titles';
+import { TextTitle } from '@/components/atoms/Titles';
 const Index = () => {
   return (
     <div>
